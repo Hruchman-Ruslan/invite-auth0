@@ -26,7 +26,8 @@
 		"**/*.ts",
 		"**/*.tsx",
 		".next/types/**/*.ts",
-		"src/app/api/auth/[...auth0]"
+		"src/app/api/auth/[...auth0]",
+		"src/components/invite-form.tsч"
 	],
 	"exclude": ["node_modules"]
 }
